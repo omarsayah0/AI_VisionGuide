@@ -1,4 +1,4 @@
-# Smart Blind Assistant
+# VisionGuide 
 
 A computer vision-based smart assistant designed to help visually impaired individuals navigate traffic environments safely. This system uses object detection and speech synthesis to detect vehicles and traffic light colors in real-time from a video feed and provides audio instructions accordingly.
 
